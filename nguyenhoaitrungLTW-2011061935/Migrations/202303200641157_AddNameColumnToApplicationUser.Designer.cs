@@ -13,7 +13,7 @@ namespace nguyenhoaitrungLTW_2011061935.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202303161552248_AddNameColumnToApplicationUser"; }
+            get { return "202303200641157_AddNameColumnToApplicationUser"; }
         }
         
         string IMigrationMetadata.Source

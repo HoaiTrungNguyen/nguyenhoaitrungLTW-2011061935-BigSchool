@@ -8,7 +8,7 @@ namespace nguyenhoaitrungLTW_2011061935.Models
 {
     public class Category
     {
-        public int ID { get; set; }
+        public byte ID { get; set; }
         [Required]
         [StringLength(255)]
         public string Name { get; set; }
